@@ -5,14 +5,3 @@
 [functions]
   node_bundler = "esbuild"
 ```
-
----
-
-## 🧪 After Redeploying, Test With:
-
-**Your site URL should be something like:**
-`https://jagdalepatil2002-netifly.netlify.app`
-
-**Test the function at:**
-```
-https://jagdalepatil2002-netifly.netlify.app/.netlify/functions/get-azure-costs
